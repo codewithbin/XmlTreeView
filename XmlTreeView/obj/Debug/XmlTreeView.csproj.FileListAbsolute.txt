@@ -1,0 +1,10 @@
+D:\uni\sem4\NET\XmlTreeView\XmlTreeView\bin\Debug\XmlTreeView.exe.config
+D:\uni\sem4\NET\XmlTreeView\XmlTreeView\bin\Debug\XmlTreeView.exe
+D:\uni\sem4\NET\XmlTreeView\XmlTreeView\bin\Debug\XmlTreeView.pdb
+D:\uni\sem4\NET\XmlTreeView\XmlTreeView\obj\Debug\XmlTreeView.csproj.AssemblyReference.cache
+D:\uni\sem4\NET\XmlTreeView\XmlTreeView\obj\Debug\XmlTreeView.Form1.resources
+D:\uni\sem4\NET\XmlTreeView\XmlTreeView\obj\Debug\XmlTreeView.Properties.Resources.resources
+D:\uni\sem4\NET\XmlTreeView\XmlTreeView\obj\Debug\XmlTreeView.csproj.GenerateResource.cache
+D:\uni\sem4\NET\XmlTreeView\XmlTreeView\obj\Debug\XmlTreeView.csproj.CoreCompileInputs.cache
+D:\uni\sem4\NET\XmlTreeView\XmlTreeView\obj\Debug\XmlTreeView.exe
+D:\uni\sem4\NET\XmlTreeView\XmlTreeView\obj\Debug\XmlTreeView.pdb

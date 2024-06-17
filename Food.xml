@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Items>
+<Food>
+<Vegetables>
+			<Beans/>
+<Peas>
+				<Greenpeas/>
+</Peas>
+<Lettuce/>
+</Vegetables>
+<Desserts>
+			<Tart/>
+<Cookie/>
+<Cake/>
+</Desserts>
+<Fruit>
+			<Banana/>
+<Peach/>
+</Fruit>
+</Food>
+<Sports>
+		<Volleyball/>
+<Baseball/>
+</Sports>
+	</Items>
